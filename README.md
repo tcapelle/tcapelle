@@ -2,7 +2,7 @@
 I am currently working at Steadysun making state of the art forecasting algorithms!
 
 - You can check my blog where I talk mostly about [my Deep Learning journey](https://tcapelle.github.io/)
-- You can also follow me on [twitter] (https://twitter.com/thecapeador)
+- You can also follow me on [twitter](https://twitter.com/thecapeador)
 - Or discuss with me on the fastai [discord channel](https://discord.gg/hE2w7Gcq)
 
 <p align="center">
