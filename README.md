@@ -12,3 +12,17 @@ I am currently working at [Weights and Biases](http://wandb.ai) making machine l
     <br>
     <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=tcapelle.tcapelle">
 </p>
+
+***************
+
+### 🗺 Location
+
+I live in the Alps region in France, in a city called [Chambery](https://en.wikipedia.org/wiki/Chambéry). I like the mountains and enjoy the lake in summer.
+
+![https://github.com/tcapelle/tcapelle.github.io/blob/master/images/granier.jpg](https://github.com/tcapelle/tcapelle.github.io/blob/master/images/granier.jpg)
+
+***************
+
+### 🔥 Latest
+
+- Article about [Deep Learning performance of the new apple M1 Pro processor](https://wandb.ai/tcapelle/apple_m1_pro/reports/Deep-Learning-on-the-M1-Pro-with-Apple-Silicon---VmlldzoxMjQ0NjY3)
