@@ -19,7 +19,7 @@ I am currently working at [Weights and Biases](http://wandb.ai) making machine l
 
 I live in the Alps region in France, in a city called [Chambery](https://en.wikipedia.org/wiki/Chambéry). I like the mountains and enjoy the lake in summer.
 
-![https://github.com/tcapelle/tcapelle.github.io/blob/master/images/granier.jpg](https://github.com/tcapelle/tcapelle.github.io/blob/master/images/granier.jpg)
+![Mount Granier Rhone Alpes](https://github.com/tcapelle/tcapelle.github.io/blob/master/blog_data/granier.jpg)
 
 ***************
 
